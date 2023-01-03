@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
     b_header: {
         width: "100%",
         height: 137,
-        top: 39,
         backgroundColor: "#3B4DB9",
         borderBottomLeftRadius: 30,
         borderBottomRightRadius: 30,
